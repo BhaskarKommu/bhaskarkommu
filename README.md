@@ -39,7 +39,7 @@ Azure, GitHub Actions
 
 ## 🌟 Featured Projects
 
-### MadigaCommunity
+### Community
 Enterprise recruitment and AI-driven community platform.
 
 ### XPartner
