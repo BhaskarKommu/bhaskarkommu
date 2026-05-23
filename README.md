@@ -52,7 +52,7 @@ Multi-agent orchestration and semantic search architecture.
 
 ## 📊 GitHub Analytics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaskarkommmu&show_icons=true)
 
 ---
 
